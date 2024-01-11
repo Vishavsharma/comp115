@@ -52,7 +52,7 @@ print(f"I think the area of the rectangle is: {side_1 * side_2}.") # This line p
 
 my_instructor_name = "Alice 😄" # Change to "Alice 😄"
 my_name = "vishav" # Change to your name
-my_github_account = "https://github.com/Vishavsharma" # Change to your GitHub account
+my_github_account = "https://github.com/Vishavsharma/comp115" # Change to your GitHub account
 my_hobby = "kabaddi" # Change to your hobby
 hours_coding_per_week = "5" # How many hours per week would you like to devote to learn coding?
 
